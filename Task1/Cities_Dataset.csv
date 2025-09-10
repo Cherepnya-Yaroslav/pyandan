@@ -1,0 +1,16 @@
+name,state,latitude_high,longitude_high,latitude_low,longitude_low,timezone,population,area_km2,is_capital
+Sacramento,California,38.581572,-121.4944,38.58,-121.49,UTC-8,525000,259.27,True
+Los Angeles,California,34.052235,-118.243683,34.05,-118.24,UTC-8,4000000,1302.0,False
+San Diego,California,32.715736,-117.161087,32.72,-117.16,UTC-8,1400000,964.51,False
+San Jose,California,37.338208,-121.886329,37.34,-121.89,UTC-8,1000000,469.72,False
+Fresno,California,36.737797,-119.787125,36.74,-119.79,UTC-8,540000,296.28,False
+Austin,Texas,30.267153,-97.743057,30.27,-97.74,UTC-6,1000000,704.39,True
+Houston,Texas,29.760427,-95.369804,29.76,-95.37,UTC-6,2300000,1651.11,False
+Dallas,Texas,32.776665,-96.796989,32.78,-96.8,UTC-6,1300000,881.93,False
+San Antonio,Texas,29.424122,-98.493629,29.42,-98.49,UTC-6,1500000,1194.0,False
+El Paso,Texas,31.761878,-106.485023,31.76,-106.49,UTC-7,700000,662.38,False
+Montgomery,Alabama,32.366806,-86.299969,32.37,-86.3,UTC-6,200000,421.01,True
+Birmingham,Alabama,33.518589,-86.810356,33.52,-86.81,UTC-6,200000,383.29,False
+Huntsville,Alabama,34.730369,-86.586104,34.73,-86.59,UTC-6,220000,558.37,False
+Mobile,Alabama,30.695366,-88.039894,30.7,-88.04,UTC-6,180000,466.04,False
+Tuscaloosa,Alabama,33.209839,-87.569168,33.21,-87.57,UTC-6,100000,182.57,False

@@ -1,0 +1,27 @@
+{
+  "farthest_from_DC": {
+    "name": "San Jose",
+    "state": "California",
+    "dist_from_DC_km": 3887.2680999654854
+  },
+  "farthest_from_state_capitals": {
+    "Alabama": {
+      "name": "Huntsville",
+      "dist_from_state_capital_km": 264.15007713769967
+    },
+    "California": {
+      "name": "San Diego",
+      "dist_from_state_capital_km": 760.5103242536815
+    },
+    "Texas": {
+      "name": "El Paso",
+      "dist_from_state_capital_km": 849.2517098682737
+    }
+  },
+  "states_with_one_timezone": {
+    "Alabama": true,
+    "California": true,
+    "Texas": false
+  },
+  "timezone_correlation": 0.955
+}
